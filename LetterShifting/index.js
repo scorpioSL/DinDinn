@@ -1,9 +1,10 @@
+"use strict";
 var ShiftLetters = /** @class */ (function () {
     function ShiftLetters(input, shift) {
         this.letters = "abcdefghijklmnopqrstuvwxyz";
         this.outPutInCapitals = true;
         this.inputString = "abc";
-        this.shiftNumber = 28;
+        this.shiftNumber = 20;
         if (input)
             this.inputString = input;
         if (shift)

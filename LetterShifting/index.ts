@@ -2,7 +2,7 @@ class ShiftLetters {
     letters: string = "abcdefghijklmnopqrstuvwxyz";
     outPutInCapitals: boolean = true;
     inputString: string = "abc";
-    shiftNumber: number = 28;
+    shiftNumber: number = 20;
 
     constructor(input?: string, shift?: number) {
         if (input)
