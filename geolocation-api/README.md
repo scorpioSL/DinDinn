@@ -7,5 +7,6 @@
 6.Go to root folder(geolocation-api) and update the .env file with correct database credentials(Previous was for sequelize cli and this is for the project)
 
 ## Run the project
-1.Run the project(development version) using the command 'npm run start:dev' (use the terminal opened in previous step 3).
-2.Access the documentations using 'localhost:3000/docs' url (Port will be change according to .env PORT parameter)
+1.Installed necessary packages for the project using 'npm install' command(use the terminal opened in previous step 3)
+2.Run the project(development version) using the command 'npm run start:dev' (use the terminal opened in previous step 3).
+3.Access the documentations using 'localhost:3000/docs' url (Port will be change according to .env PORT parameter)
