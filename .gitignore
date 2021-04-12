@@ -1,4 +1,5 @@
 # dependencies
 LetterShifting/node_modules
 geolocation-api/node_modules
+geolocation-api/dist
 .DS_Store
