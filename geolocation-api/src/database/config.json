@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "developer",
-    "password": "1234",
-    "database": "geolocation_api",
-    "host": "192.168.64.2",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {
