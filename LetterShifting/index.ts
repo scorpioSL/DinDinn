@@ -31,3 +31,12 @@ class ShiftLetters {
 let firstShift = new ShiftLetters();
 firstShift.generateOutput();
 
+/**
+ * Disadvantage of using ASCII
+ * 
+ * The algorithm wil be complex when handling scenarios like z character. The ascii code for z character 
+ * will b 122. If we move z by 2 characters the output should be b which is 098 in ascii(in this scenario). To get the result
+ * algorithm should run complex calculations which affects the performance of the algorithm.
+ * 
+ */
+
